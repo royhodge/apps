@@ -26,7 +26,7 @@ Creating an account
 * Enter your username and password to login.
 
 
-PrimeVault
+Vault
 ------------
 
 1. Vault is a simple blockchain powered document storage and retrieval system.
