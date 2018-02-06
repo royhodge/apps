@@ -72,7 +72,7 @@
 					</div>
 				</section>
 
-				<p class="text-center text-muted mt-md mb-md">&copy; Unlicensed 2018 Unibitlabs</p>
+				<p class="text-center text-muted mt-md mb-md"></p>
 			</div>
 
 			<div class="col-md-4"></div>
